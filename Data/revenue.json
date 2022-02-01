@@ -1,7 +1,7 @@
 {
   "receita": [
     {
-      "id": "1",
+      "id": 1,
       "titulo": "cocada de colher",
       "ingredientes": [
         "1 lata de leite condençado",
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "titulo": "biscoito de polvilho doce",
       "ingredientes": [
         "250g de polvilho doce",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
       "titulo": "biscoito de polvilho frito",
       "ingredientes": [
         "500g de polvilho (doce/azedo)",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": 4,
       "titulo": "bolo de fubá cremoso",
       "ingredientes": [
         "4 ovos",
@@ -80,6 +80,67 @@
         "leve ao forno por aproximadamente 40 minutos"
       ],
       "observações": ["opcional: 100g de coco ralado"]
+    },
+    {
+      "id": 5,
+      "titulo": "bolo de batata",
+      "ingredientes": [
+        "1kg de batata cozida",
+        "3 ovos",
+        "50g de queijo ralado",
+        "2 colheres sopa de farinha de trigo",
+        "2 colheres sopa bem cheias de manteiga",
+        "queijo",
+        "presunto",
+        "sal a gosto"
+      ],
+      "preparo": [
+        "misture todos os ingredientes",
+        "unte a forma, de preferência com furo",
+        "coloque metade da massa na forma",
+        "adicione presunto e queijo",
+        "coloque o restante da massa",
+        "leve ao forno até dourar"
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "bolo de yogurte",
+      "ingredientes": [
+        "4 ovos",
+        "1 copo de yogurte natural",
+        "1/2 copo de óleo",
+        "2 copos de farinha de trigo",
+        "2 copos de açúcar",
+        "1 colher sopa de fermento em pó"
+      ],
+      "preparo": [
+        "bata os ovos, yogurte e óleo no liquidificador",
+        "acrescente a farinha e o açúcar",
+        "misturar o fermento",
+        "unte a forma com manteiga e açúcar",
+        "levar ao forno até dourar"
+      ],
+      "observações": ["usar o copo do yogurte como medida"]
+    },
+    {
+      "id": 7,
+      "titulo": "pudim de maria mole",
+      "ingredientes": [
+        "1 lata de leite condençado",
+        "1 caixa de creme de leite",
+        "1 caixa de maria mole",
+        "1 copo de água fervente",
+        "1 medida da lata de deite condençado de leite"
+      ],
+      "preparo": [
+        "dissolva a maria mole na água",
+        "adicione todos os ingredientes no liquidificador",
+        "bata bem",
+        "coloque em taças ou travessa",
+        "leve a geladeira até ter consistência de pudim"
+      ],
+      "observações": ["adicionar o creme de leite por último no liquidificador"]
     }
   ]
 }
