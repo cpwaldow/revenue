@@ -40,9 +40,7 @@
     },
     {
       "id": "3",
-
       "titulo": "biscoito de polvilho frito",
-
       "ingredientes": [
         "500g de polvilho (doce/azedo)",
         "1 copo americano de leite",
@@ -52,7 +50,6 @@
         "1 colher de sopa rasa de açúcar",
         "1 ovo grande ou 2 pequenos"
       ],
-
       "preparo": [
         "leve o leite, água, óleo e sal ao fogo até levantar fervura",
         "misture o açúcar no polvilho",
@@ -64,9 +61,7 @@
     },
     {
       "id": "4",
-
       "titulo": "bolo de fubá cremoso",
-
       "ingredientes": [
         "4 ovos",
         "4 xícaras de leite",
@@ -78,14 +73,12 @@
         "1 colher de fermento",
         "1 pitada de sal"
       ],
-
       "preparo": [
         "adicionar todos os ingredientes no liquidificador",
         "pré-aqueça o forno em 180º",
         "unte a forma",
         "leve ao forno por aproximadamente 40 minutos"
       ],
-
       "observações": ["opcional: 100g de coco ralado"]
     }
   ]
