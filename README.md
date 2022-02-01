@@ -6,7 +6,7 @@
 
         "id": ,
 
-        "titulo":  ,
+        "titulo": ,
 
         "ingredientes": [
         ],
