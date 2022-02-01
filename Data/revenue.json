@@ -37,6 +37,56 @@
         "50g de coco ralado, opcional",
         "não precisa untar a forma"
       ]
+    },
+    {
+      "id": "3",
+
+      "titulo": "biscoito de polvilho frito",
+
+      "ingredientes": [
+        "500g de polvilho (doce/azedo)",
+        "1 copo americano de leite",
+        "1 copo americano de água",
+        "1/2 copo americano de óleo",
+        "1 colher de sopa rasa de sal",
+        "1 colher de sopa rasa de açúcar",
+        "1 ovo grande ou 2 pequenos"
+      ],
+
+      "preparo": [
+        "leve o leite, água, óleo e sal ao fogo até levantar fervura",
+        "misture o açúcar no polvilho",
+        "misture os líquidos no polvilho enquanto mistura com uma colher até poder sovar",
+        "após a massa perder temperatura e conseguir sovar, misture o ovo até incorporar",
+        "o ponto da massa não pode ficar líquida ou dura para moldar os biscoitos",
+        "fritar em óleo frio, cada retirada de biscoito, retirar a panela do fogo"
+      ]
+    },
+    {
+      "id": "4",
+
+      "titulo": "bolo de fubá cremoso",
+
+      "ingredientes": [
+        "4 ovos",
+        "4 xícaras de leite",
+        "3 xícaras de açúcar",
+        "2 colheres de farinha de trigo",
+        "2 e 1/2 xícaras de fubá",
+        "2 colheres de margarina",
+        "100g de queijo ralado",
+        "1 colher de fermento",
+        "1 pitada de sal"
+      ],
+
+      "preparo": [
+        "adicionar todos os ingredientes no liquidificador",
+        "pré-aqueça o forno em 180º",
+        "unte a forma",
+        "leve ao forno por aproximadamente 40 minutos"
+      ],
+
+      "observações": ["opcional: 100g de coco ralado"]
     }
   ]
 }
