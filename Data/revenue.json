@@ -1,7 +1,8 @@
 {
   "receita": [
     {
-      "nome": "cocada de colher",
+      "id": "1",
+      "titulo": "cocada de colher",
       "ingredientes": [
         "1 lata de leite condençado",
         "1 lata (leite condençado) de leite",
@@ -13,6 +14,28 @@
         "leve ao fogo baixo, mexendo sempre por cerca de 15 minutos até ficar consistente",
         "retirar do fogo e deixe esfriar",
         "leve a geladeira"
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "biscoito de polvilho doce",
+      "ingredientes": [
+        "250g de polvilho doce",
+        "1/2 xícara de farinha de trigo",
+        "125g de margarina",
+        "1/2 xícara de açúcar",
+        "1/2 colher café de fermento em pó",
+        "1 ovo"
+      ],
+      "preparo": [
+        "pré-aqueça o forno em temperatura média",
+        "misture todos os ingredientes",
+        "modele no formato que preferir",
+        "coloque no forno até dourar por baixo do biscoito"
+      ],
+      "observações": [
+        "50g de coco ralado, opcional",
+        "não precisa untar a forma"
       ]
     }
   ]
